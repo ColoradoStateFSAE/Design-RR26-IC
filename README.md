@@ -1,3 +1,3 @@
-# Design-RR26-IC
-![Comp25Day3-1](https://github.com/user-attachments/assets/3ac1abdf-3c55-48ca-a955-18acd9491acb)
+# Design Forum RR26 (IC)
+<img width="1414" height="943" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/ed25ecfe-abd9-41ae-a482-37942fb567c3" />
 This is the Ram Racing design forum where you upload all design, analysis, and validation documentation
